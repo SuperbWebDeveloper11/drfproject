@@ -1,7 +1,7 @@
 
 
 ## Basic DRF project 
-![drf image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thetestspecimen.com%2Fposts%2Fdjango-rest-framework-initial-setup%2F&psig=AOvVaw0VTM9ia4cqXYuLnHfhHCPs&ust=1623184731544000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjkw8GwhvECFQAAAAAdAAAAABAN)
+![drf image](https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg)
 
 ## authentication schemes used:
     1- BasicAuthentication
